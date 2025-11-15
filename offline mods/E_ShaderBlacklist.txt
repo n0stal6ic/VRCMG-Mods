@@ -1,0 +1,1 @@
+Store full or partial names of shaders line by line here to add them to the blacklist.
